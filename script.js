@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR_API_KEY_HERE';
+const API_KEY = b4a1e20e016dcdf09a1b9d96;
 
 const currencies = [
   'USD', 'EUR', 'GBP', 'JPY', 'AUD', 'CAD', 'CHF', 'CNY', 'INR', 'MXN',
